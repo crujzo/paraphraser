@@ -6,8 +6,6 @@
 
 > Generate multiple diverse paraphrases of any text using state-of-the-art AI. Perfect for content writing, SEO, academic work, and more!
 
-![AI Paraphraser Demo](https://via.placeholder.com/800x400/667eea/ffffff?text=AI+Paraphraser)
-
 ## ✨ Features
 
 - 🎯 **Multiple Paraphrases**: Generate 1-20+ different ways of saying the same thing
